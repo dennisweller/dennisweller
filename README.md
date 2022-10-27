@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dennisweller, advanced Unity Developer
-- 📫 How to reach me: dennis-weller@web.de
+- 👋 Hi, I’m 
+- 📫 How to reach me: 
 
 <!---
 dennisweller/dennisweller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
